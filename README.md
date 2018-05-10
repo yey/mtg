@@ -326,6 +326,11 @@ python setup.py nosetests
 
 Once you have fixed a bug or implemented a new feature, please sent a pull request!  I try to get around to merging these in as quickly as I am able, but if it seems like I'm ignoring you, just pester me until I respond.
 
+## Todo
+- [ ] mtgi, get image and show by imgcat and cache
+- [ ] default config
+- [ ] args choose list info
+
 ## License
 
 The MIT software license can be found in [this file](LICENSE).
